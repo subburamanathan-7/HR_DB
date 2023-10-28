@@ -1,0 +1,3 @@
+name,company,contactNumber,status,interviewMode,HRCount,transport,address,internship,comments
+csv contact,csv compnay,1234556678,notCalled,online,2,transport,address,yes,no
+csv contact1,csv compnay,123445678,calledDeclined,online,2,transport,address,yes,no
